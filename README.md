@@ -1,2 +1,2 @@
 # adr-examples
-ADR examples
+ADR examples used to illustrate blog article.
